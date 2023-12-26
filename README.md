@@ -32,7 +32,7 @@ For each of these three sources, you can decide any two public groups and gather
 Note: for each source, there could be multiple discussions that you gather.
 
 ## Task 3 - Analyze gathered information
-For each discussion that you gather in Task 2, summarize the information being discussed.  
+For the discussions that you gather in Task 2, summarize the information being discussed.  
 What can you analyze about this information?  
 Can you provide:
 - The main highlights or summary of the overall discussions. This could be a summary across multiple discussions that may have happened.

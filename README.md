@@ -25,9 +25,10 @@ Have a script which displays the top 5 topics currently in the news for a given 
 ## Task 2 - Gather relevant discussions
 For each of the topics found out in task 1, gather current discussions happening on public forums.  
 For the purpose of this task, let your information sources be 
--- Facebook 
--- Twitter 
--- Reddit
+- Facebook 
+- Twitter 
+- Reddit
+
 For each of these three sources, you can decide any two public groups and gather information from it.
 Note: for each source, there could be multiple discussions that you gather.
 

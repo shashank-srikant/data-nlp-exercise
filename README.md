@@ -19,7 +19,7 @@ The use-case we will explore is specifically that of a political organization ge
 ## Task 1 - Gather data
 Write a function to list out the hot topics that are currently in the news in a city.  
 The inputs to this task will be the name of the city.  
-Find relevant sources you may want to pull this information from. List out the sources. They could be a few, limited, and popular set of sources. For example, any one news channel.  
+Find relevant sources you may want to pull this information from. List out the sources. They could be a few, limited, and popular set of sources. For example, any one news channel.  Limit the number to a maximum of 3. A minimum of 1 is also fine.  
 Have a script which displays the top 5 topics currently in the news for a given city.
 
 ## Task 2 - Gather relevant discussions

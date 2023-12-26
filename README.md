@@ -1,4 +1,4 @@
-# An exercise in data analysis and image processing
+# An exercise in data analysis
 
 This is a small exercise in the kinds of skills that may be required of you.  
 The goal here is to evaluate how well you understand the problem, scope it, come up with a strategy to solve it, and execute it.  
@@ -12,11 +12,46 @@ More formally, we will look for the following in our evaluation:
 - Assess how you resolve situations when you're stuck.
 - Assess how well you communicate and let all stakeholders know of your progress. We emphasize constant communication over receiving no communication for days, and just seeing a dump of the results on the day of your submission. This has multiple drawbacks: (1) it gives us no insight into the process you employ to evaluate a problem and come up with a solution. (2) it gives us no room to help you in case you're stuck on any step. Consider this to be a task you will receive on your job - demonstrate to us how you will work on the task in such a setting.
 
+## Task
+The aim is to build a small dashboard which will give us a sense for the kinds of sentiments and discussions happening in a city around a specific topic.
+The use-case we will explore is specifically that of a political organization getting a sense for what people are discussing.
+
 ## Task 1 - Gather data
+Write a function to list out the hot topics that are currently in the news in a city.  
+The inputs to this task will be the name of the city.  
+Find relevant sources you may want to pull this information from. List out the sources. They could be a few, limited, and popular set of sources. For example, any one news channel.  
+Have a script which displays the top 5 topics currently in the news for a given city.
 
-## Task 2
+## Task 2 - Gather relevant discussions
+For each of the topics found out in task 1, gather current discussions happening on public forums.  
+For the purpose of this task, let your information sources be 
+-- Facebook 
+-- Twitter 
+-- Reddit
+For each of these three sources, you can decide any two public groups and gather information from it.
+Note: for each source, there could be multiple discussions that you gather.
 
-## Task 3
+## Task 3 - Analyze gathered information
+For each discussion that you gather in Task 2, summarize the information being discussed.  
+What can you analyze about this information?  
+Can you provide:
+- The main highlights or summary of the overall discussions. This could be a summary across multiple discussions that may have happened.
+- What is the sentiment of this discussion? Are people happy, unhappy, dissatisfied, etc.?
+- What is it that people are demanding for? What is the actionable needs that people are expressing.
+
+Can you gather more information? What is the best way to present this information?
+
+Hint: Use an LLM to gather these insights.
+
+## Task 4 - Build a small front-end to display your analyzed information
+Build out a very simple front-end where a user can look at your results and analysis on a webpage.
+The webpage should have a form which accepts the city name, and preferably shows drop-downs for each of the sources you selected in Task 1 and 2.  
+Given these inputs, show the results from Task 3.
+
+## Task 5 - Extend to states (no implementation; just a thought experiment)
+Think about how you would extend your software to have the same dashboard, but for an entire state (which consists of multiple cities). This should be in addition to the city-level information you report.  
+How would you design the backend? What changes will you make to your code.  
+You do not have to implement this change -- we will discuss this on a call.
 
 ## Instructions to submit your work
 - Do not fork this repo. Work on a local copy. Make it a habit to push changes upstream to your repo as frequently as feasible.

@@ -30,17 +30,18 @@ For the purpose of this task, let your information sources be
 - Reddit
 
 For each of these three sources, you can decide any two public groups and gather information from it.
-Note: for each source, there could be multiple discussions that you gather.
+Note:  
+For each source, there could be multiple discussions that you gather.  
+Also, for each discussion, there could be multiple comments that offer diverse views on the topic.
 
 ## Task 3 - Analyze gathered information
-For the discussions that you gather in Task 2, summarize the information being discussed.  
+For the discussions that you gather in Task 2, summarize what is being discussed in each discussion.  
 What can you analyze about this information?  
 Can you provide:
-- The main highlights or summary of the overall discussions. This could be a summary across multiple discussions that may have happened.
-- What is the sentiment of this discussion? Are people happy, unhappy, dissatisfied, etc.?
-- What is it that people are demanding for? What is the actionable needs that people are expressing.
-
-Can you gather more information? What is the best way to present this information?
+- Remember, each discussion can comprise multiple comments. Each comment can offer a diverse and different viewpoint on the topic. How will you summarize these diverse viewpoints?
+- Can you figure out what is it that people are demanding for? What is the actionable needs that people are expressing.
+- Of the diverse views being discussed, are there some that are positive, and some that are negative? Can you identify those?
+- What is the best way to present this information? How will you ensure the summaries of the different viewpoints that you gather are accurate?
 
 Hint: Use an LLM to gather these insights.
 

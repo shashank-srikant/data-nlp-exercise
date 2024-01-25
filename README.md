@@ -13,7 +13,7 @@ More formally, we will look for the following in our evaluation:
 - Assess how well you communicate and let all stakeholders know of your progress. We emphasize constant communication over receiving no communication for days, and just seeing a dump of the results on the day of your submission. This has multiple drawbacks: (1) it gives us no insight into the process you employ to evaluate a problem and come up with a solution. (2) it gives us no room to help you in case you're stuck on any step. Consider this to be a task you will receive on your job - demonstrate to us how you will work on the task in such a setting.
 
 ## Task
-The aim is to build a small dashboard which will give us a sense for the kinds of sentiments and discussions happening in a city around a specific topic.
+The aim is to build a small dashboard which will give us a sense for the kinds of discussions happening in a city around a specific topic.
 The use-case we will explore is specifically that of a political organization getting a sense for what people are discussing.
 
 ## Task 1 - Gather data

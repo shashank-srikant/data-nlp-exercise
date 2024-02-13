@@ -36,12 +36,14 @@ Also, for each discussion, there could be multiple comments that offer diverse v
 
 ## Task 3 - Analyze gathered information
 For the discussions that you gather in Task 2, summarize what is being discussed in each discussion.  
-What can you analyze about this information?  
-Can you provide:
-- Remember, each discussion can comprise multiple comments. Each comment can offer a diverse and different viewpoint on the topic. How will you summarize these diverse viewpoints?
-- Can you figure out what is it that people are demanding for? What is the actionable needs that people are expressing.
+What can you analyze about this information? 
+- Remember, each discussion can comprise multiple comments. Each comment can offer a diverse and different viewpoint on the topic. How can we get a sense for all the unique viewpoints expressed?  
 - Of the diverse views being discussed, are there some that are positive, and some that are negative? Can you identify those?
-- What is the best way to present this information? How will you ensure the summaries of the different viewpoints that you gather are accurate?
+- What is the best way to present this information?
+- How will you ensure the different viewpoints for a given post that you gather are accurate? How can you ensure you can rely on the generated descriptions of the viewpoints.
+
+For example, if a post on topic XYZ has 10 total comments - of which 4 are in favor of it, 3 are against it, and 3 are neutral.  
+Of the 4 that are in favor, three of them express support using argument A, while the other comment uses a totally different and unique argument B. Similarly, of the 3 that are against the topic, two comments use a similar argument C, while the third comment uses a different argument D. How can your system summarize all this information?
 
 Hint: Use an LLM to gather these insights.
 
